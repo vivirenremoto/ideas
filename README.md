@@ -10,4 +10,4 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 
 - Generador de vídeos automaticos con voces de IBM Watson.
 
-- Generador de textos automáticos a partir de textos ya indexados en google.
+- Generador de textos automáticos en base a textos ya indexados en google según una keyword.
