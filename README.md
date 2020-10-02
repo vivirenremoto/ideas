@@ -19,3 +19,5 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 - Resultados de apuestas deportivas predecidos por IA con GPT-3.
 
 - App para android con mensajes en audios predefinidos en plan para hacer amago de baja para que te mejoren las condiciones.
+
+- CMS generador de sitios estático para subir a github.
