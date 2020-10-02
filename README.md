@@ -17,3 +17,5 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 - Podcast generado generado por IA.
 
 - Resultados de apuestas deportivas predecidos por IA.
+
+- App para android con mensajes en audios predefinidos en plan para hacer amago de baja para que te mejoren las condiciones.
