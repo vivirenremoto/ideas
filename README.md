@@ -24,6 +24,12 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 
 11. Comunidad donde compartir speedrun de legos.
 
-12. Launcher de android para personas mayores, con botones grandes.
+12. Launcher de android para personas mayores con botones grandes.
 
 13. Libro de visitas pero con mensajes de voz.
+
+14. Extensión de Chrome para averiguar comentarios de Amazon potencialmente falsos.
+
+15. Sistema de pago por QR.
+
+16. Extensión de Chrome para cambiar la interfaz de Netflix para que muestre recomendaciones en base a una película o serie.
