@@ -33,3 +33,5 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 15. Sistema de pago por QR.
 
 16. Extensión de Chrome para cambiar la interfaz de Netflix para que muestre recomendaciones en base a una película o serie.
+
+17. Integrar un mensaje de voz en un QR sin tener que instalar nada en él móvil podría ser útil para museos.
