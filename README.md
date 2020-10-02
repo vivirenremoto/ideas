@@ -11,3 +11,5 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 - Generador de vídeos automaticos con voces de IBM Watson.
 
 - Generador de textos automáticos en base a textos ya indexados en google según una keyword.
+
+- Podcast con entrevistas a programadores variopintos (CTO, indie developers de juegos, emprendedores, makers)
