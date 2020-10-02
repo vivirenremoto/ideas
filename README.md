@@ -20,4 +20,4 @@ Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un 
 
 - App para android con mensajes en audios predefinidos en plan para hacer amago de baja para que te mejoren las condiciones.
 
-- CMS generador de sitios estáticos listoa para subir a github.
+- CMS generador de sitios estáticos listos para subir a github.
