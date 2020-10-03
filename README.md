@@ -2,7 +2,7 @@
 
 Seguro que algunas de estas cosas ya existen pero aún así me apetece hacer un día por el reto de programarlo yo mismo:
 
-✅ 1. App con lector de código de barras que aproveche la tecnología de https://affinder.pro para cuando vayas a una tienda física puedas ver fácilmente si en Internet es más barato en distintas tiendas. [Ver](https://twitter.com/vivirenremoto/status/1312385991752192000?s=19)
+1. ✅ App con lector de código de barras que aproveche la tecnología de https://affinder.pro para cuando vayas a una tienda física puedas ver fácilmente si en Internet es más barato en distintas tiendas. [Ver](https://twitter.com/vivirenremoto/status/1312385991752192000?s=19)
 
 2. Alarma compacta portátil con Arduino y un Sensor de distancia (HC-SR04) camuflado en un cubo de rubik que si detecta movimiento envíe un mensaje a un canal de telegram.
 
